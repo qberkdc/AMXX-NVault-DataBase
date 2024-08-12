@@ -4,10 +4,11 @@
 new DataBase;
 const DataBaseBots = 0;
 const DataBaseType = 3; // 1=Name | 2=IP | 3=VALVE_ID
+new const DataBaseName = "main_cdata";
 
 public plugin_init() {
 	register_plugin("[CH] Advanced Database", "v2.00", "--chcode");
-	DataBase = nvault_open("class_cdata");
+	DataBase = nvault_open(DataBaseName);
 }
 
 public client_disconnected(id) {
