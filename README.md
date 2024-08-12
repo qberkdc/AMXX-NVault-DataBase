@@ -1,8 +1,8 @@
-### ` ❕ `  `AMXX NVault DataBase`
+### ` ❔ `  `AMXX NVault DataBase`
 - NVault The method of saving data is
 - You can easily write your data in this script
 
-### ` ❕ `  `Data Base Settings`
+### ` ❓ `  `Data Base Settings`
 ** **
 - **`Should he save the data for the bots?`**
 - **DataBaseBots** = 0 | `Default: 0`
@@ -15,7 +15,7 @@
 - **2** | ___`Saves to the ip`___
 - **3** | ___`Saves to the valve_id`___
 ** **
-### ` ❕ `  `How is the data extracted?`
+### ` ❓ `  `How is the data extracted?`
 -		// here is the area that we will use to print data to global variables.
 -		// example for numbers: client_data[id] = str_to_num(BData[i]);
 -		// example for strings: format(client_data[id], charsmax(client_data), "%s", BData[i]);
