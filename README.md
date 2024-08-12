@@ -4,18 +4,18 @@
 
 ### ` ❓ `  `Data Base Settings`
 ** **
-- **`Should he save the data for the bots?`**
+#### **`Should he save the data for the bots?`**
 - **DataBaseBots** = 0 | `Default: 0`
 - **1** | ___`Allows bots to save data`___
 - **0** | ___`Does not allow bots to save data`___
 ** **
-- **`Type of data saving`**
+#### **`Type of data saving`**
 - **DataBaseType** = 3 | `Default: 3`
 - **1** | ___`Saves to the username`___
 - **2** | ___`Saves to the ip`___
 - **3** | ___`Saves to the valve_id`___
 ** **
-- **`Database file name`**
+#### **`Database file name`**
 - **DataBaseName** = "main_cdata" | `Default: "main_cdata"`
 - The name of this database is in the `"amxmodx/data/vault"` section
 - creates a file with the following name `"main_cdata.vault"`
