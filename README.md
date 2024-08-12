@@ -1,5 +1,5 @@
 ### ` ❔ `  `AMXX NVault DataBase`
-- NVault The method of saving data is
+- NVault is the method of saving data
 - You can easily write your data in this script
 
 ### ` ❓ `  `Data Base Settings`
