@@ -15,6 +15,11 @@
 - **2** | ___`Saves to the ip`___
 - **3** | ___`Saves to the valve_id`___
 ** **
+- **`Database file name`**
+- **DataBaseName** = "main_cdata" | `Default: "main_cdata"`
+- The name of this database is in the `"amxmodx/data/vault"` section
+- creates a file with the following name `"main_cdata.vault"`
+** **
 ### ` ❓ `  `How is the data extracted?`
 -		// here is the area that we will use to print data to global variables.
 -		// example for numbers: client_data[id] = str_to_num(BData[i]);
